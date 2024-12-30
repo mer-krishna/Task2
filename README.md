@@ -181,3 +181,6 @@ A modern e-commerce platform built with React, featuring a clean UI and seamless
 ![Screenshot (2011)](https://github.com/user-attachments/assets/13ad6693-7098-44b5-bbdf-9aee780a6d0e)
 ![Screenshot (2005)](https://github.com/user-attachments/assets/67e9f8b2-1ccd-4cc2-9ca9-e0dc4c2b7b35)
 ![Screenshot (2012)](https://github.com/user-attachments/assets/14198e2e-1b04-4b7a-817a-c9d766ef2502)
+
+# OUTPUT FOR E-COMMERCE WEBSITE
+ https://github.com/user-attachments/assets/314fbedb-8438-466f-970a-41d657cae591
